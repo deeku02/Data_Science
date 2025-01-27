@@ -3,11 +3,11 @@
 
 ## Overview
 
-This project involves performing exploratory data analysis (EDA), building a lookalike model, and conducting customer segmentation using a provided eCommerce transactions dataset. The dataset consists of three files:
+In this assignment we are provided with an eCommerce Transactions dataset consisting of three files: 
+Customers.csv, Products.csv, and Transactions.csv. 
+Here I have performed exploratory data analysis (EDA), build predictive models, and derive actionable insights. 
+This assignment is to test our data analysis, machine learning, and business insight generation skills. 
 
-- **Customers.csv**: Customer details including ID, name, region, and signup date.
-- **Products.csv**: Product information including ID, name, category, and price.
-- **Transactions.csv**: Transaction records including customer ID, product ID, date, quantity, total value, and product price.
 
 ### Tasks Overview:
 
