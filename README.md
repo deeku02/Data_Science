@@ -1,5 +1,5 @@
-# Data-Science-Intern-Assignment-Zeotap
-# eCommerce Transactions Dataset - Data Science Assignment
+# Data Science Assignment: eCommerce Transactions Dataset
+# By Zeotap
 
 ## Overview
 
